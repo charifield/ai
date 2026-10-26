@@ -1,5 +1,11 @@
 # @ai-sdk/gateway
 
+## 4.0.128
+
+### Patch Changes
+
+- 01d7a03: feat(openai): add GPT-6.1 Terra model support
+
 ## 4.0.127
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @ai-sdk/amazon-bedrock
 
+## 5.0.126
+
+### Patch Changes
+
+- 22b4461: Forward disabled thinking in Anthropic Converse requests when using `reasoning: 'none'` or `reasoningConfig: { type: 'disabled' }`, omitting the unsupported thinking field for Claude 3.5 and earlier. Apply model-specific fallbacks and effort limits when disabled thinking is unsupported, preserving explicit reasoning effort during the adaptive fallback.
+- Updated dependencies [01d7a03]
+  - @ai-sdk/openai@4.0.104
+
 ## 5.0.125
 
 ### Patch Changes

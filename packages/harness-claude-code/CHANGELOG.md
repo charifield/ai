@@ -1,5 +1,13 @@
 # @ai-sdk/harness-claude-code
 
+## 1.0.170
+
+### Patch Changes
+
+- 09b3e1d: feat(harness-claude-code): add maxBudgetUsd and strictMcpConfig settings
+- 6e3e999: add questionTimeoutMs and excludeDynamicSections settings
+  - @ai-sdk/harness@1.0.166
+
 ## 1.0.169
 
 ### Patch Changes

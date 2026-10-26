@@ -1,5 +1,12 @@
 # @ai-sdk/harness-github-copilot
 
+## 1.0.62
+
+### Patch Changes
+
+- @ai-sdk/harness@1.0.166
+- @ai-sdk/harness-acp@1.0.105
+
 ## 1.0.61
 
 ### Patch Changes
