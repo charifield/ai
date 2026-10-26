@@ -1,5 +1,11 @@
 # @ai-sdk/openai
 
+## 3.0.133
+
+### Patch Changes
+
+- 90fad7b: feat(openai): add GPT-6.1 Terra model support
+
 ## 3.0.132
 
 ### Patch Changes
